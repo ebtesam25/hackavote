@@ -1,0 +1,12 @@
+{
+  "name": "hackavote",
+  "displayName": "hackavote",
+  "expo": {
+    "name": "hackavote",
+    "slug": "hackavote",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
